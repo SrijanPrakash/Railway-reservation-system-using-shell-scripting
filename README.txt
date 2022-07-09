@@ -1,5 +1,5 @@
-Name : Nimesh Sati
-Roll No : MT2021086
+Name : Srijan Prakash
+Roll No : MT2021139
 
 First compile server file by - gcc ser.c
 run server file - ./a.out
